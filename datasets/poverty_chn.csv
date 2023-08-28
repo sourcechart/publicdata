@@ -1,0 +1,259 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+China,CHN,2019,Income share held by second 20%,SI.DST.02ND.20,10.7
+China,CHN,2018,Income share held by second 20%,SI.DST.02ND.20,10.7
+China,CHN,2017,Income share held by second 20%,SI.DST.02ND.20,10.5
+China,CHN,2016,Income share held by second 20%,SI.DST.02ND.20,10.7
+China,CHN,2015,Income share held by second 20%,SI.DST.02ND.20,10.6
+China,CHN,2014,Income share held by second 20%,SI.DST.02ND.20,10.5
+China,CHN,2013,Income share held by second 20%,SI.DST.02ND.20,10.3
+China,CHN,2012,Income share held by second 20%,SI.DST.02ND.20,9.7
+China,CHN,2011,Income share held by second 20%,SI.DST.02ND.20,9.6
+China,CHN,2010,Income share held by second 20%,SI.DST.02ND.20,9.2
+China,CHN,2008,Income share held by second 20%,SI.DST.02ND.20,9.4
+China,CHN,2005,Income share held by second 20%,SI.DST.02ND.20,10
+China,CHN,2002,Income share held by second 20%,SI.DST.02ND.20,9.6
+China,CHN,1999,Income share held by second 20%,SI.DST.02ND.20,10.5
+China,CHN,1996,Income share held by second 20%,SI.DST.02ND.20,11.5
+China,CHN,1993,Income share held by second 20%,SI.DST.02ND.20,12
+China,CHN,1990,Income share held by second 20%,SI.DST.02ND.20,12.4
+China,CHN,2019,Income share held by third 20%,SI.DST.03RD.20,15.2
+China,CHN,2018,Income share held by third 20%,SI.DST.03RD.20,15.3
+China,CHN,2017,Income share held by third 20%,SI.DST.03RD.20,15.1
+China,CHN,2016,Income share held by third 20%,SI.DST.03RD.20,15.3
+China,CHN,2015,Income share held by third 20%,SI.DST.03RD.20,15.3
+China,CHN,2014,Income share held by third 20%,SI.DST.03RD.20,15.2
+China,CHN,2013,Income share held by third 20%,SI.DST.03RD.20,15
+China,CHN,2012,Income share held by third 20%,SI.DST.03RD.20,14.7
+China,CHN,2011,Income share held by third 20%,SI.DST.03RD.20,14.6
+China,CHN,2010,Income share held by third 20%,SI.DST.03RD.20,14.3
+China,CHN,2008,Income share held by third 20%,SI.DST.03RD.20,14.5
+China,CHN,2005,Income share held by third 20%,SI.DST.03RD.20,14.7
+China,CHN,2002,Income share held by third 20%,SI.DST.03RD.20,14.4
+China,CHN,1999,Income share held by third 20%,SI.DST.03RD.20,15.1
+China,CHN,1996,Income share held by third 20%,SI.DST.03RD.20,15.9
+China,CHN,1993,Income share held by third 20%,SI.DST.03RD.20,15.9
+China,CHN,1990,Income share held by third 20%,SI.DST.03RD.20,16.4
+China,CHN,2019,Income share held by fourth 20%,SI.DST.04TH.20,22
+China,CHN,2018,Income share held by fourth 20%,SI.DST.04TH.20,22.2
+China,CHN,2017,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+China,CHN,2016,Income share held by fourth 20%,SI.DST.04TH.20,22.2
+China,CHN,2015,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,2014,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,2013,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+China,CHN,2012,Income share held by fourth 20%,SI.DST.04TH.20,22.4
+China,CHN,2011,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,2010,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,2008,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+China,CHN,2005,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,2002,Income share held by fourth 20%,SI.DST.04TH.20,22.4
+China,CHN,1999,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+China,CHN,1996,Income share held by fourth 20%,SI.DST.04TH.20,22.4
+China,CHN,1993,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+China,CHN,1990,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+China,CHN,2019,Income share held by highest 20%,SI.DST.05TH.20,45.3
+China,CHN,2018,Income share held by highest 20%,SI.DST.05TH.20,45.4
+China,CHN,2017,Income share held by highest 20%,SI.DST.05TH.20,45.9
+China,CHN,2016,Income share held by highest 20%,SI.DST.05TH.20,45.3
+China,CHN,2015,Income share held by highest 20%,SI.DST.05TH.20,45.4
+China,CHN,2014,Income share held by highest 20%,SI.DST.05TH.20,45.8
+China,CHN,2013,Income share held by highest 20%,SI.DST.05TH.20,46.3
+China,CHN,2012,Income share held by highest 20%,SI.DST.05TH.20,47.8
+China,CHN,2011,Income share held by highest 20%,SI.DST.05TH.20,48.1
+China,CHN,2010,Income share held by highest 20%,SI.DST.05TH.20,49
+China,CHN,2008,Income share held by highest 20%,SI.DST.05TH.20,48.4
+China,CHN,2005,Income share held by highest 20%,SI.DST.05TH.20,47.1
+China,CHN,2002,Income share held by highest 20%,SI.DST.05TH.20,47.9
+China,CHN,1999,Income share held by highest 20%,SI.DST.05TH.20,45.6
+China,CHN,1996,Income share held by highest 20%,SI.DST.05TH.20,42.9
+China,CHN,1993,Income share held by highest 20%,SI.DST.05TH.20,42.2
+China,CHN,1990,Income share held by highest 20%,SI.DST.05TH.20,40.8
+China,CHN,2019,Income share held by highest 10%,SI.DST.10TH.10,29.5
+China,CHN,2018,Income share held by highest 10%,SI.DST.10TH.10,29.4
+China,CHN,2017,Income share held by highest 10%,SI.DST.10TH.10,29.9
+China,CHN,2016,Income share held by highest 10%,SI.DST.10TH.10,29.4
+China,CHN,2015,Income share held by highest 10%,SI.DST.10TH.10,29.4
+China,CHN,2014,Income share held by highest 10%,SI.DST.10TH.10,29.7
+China,CHN,2013,Income share held by highest 10%,SI.DST.10TH.10,30.3
+China,CHN,2012,Income share held by highest 10%,SI.DST.10TH.10,31.5
+China,CHN,2011,Income share held by highest 10%,SI.DST.10TH.10,31.8
+China,CHN,2010,Income share held by highest 10%,SI.DST.10TH.10,32.6
+China,CHN,2008,Income share held by highest 10%,SI.DST.10TH.10,32
+China,CHN,2005,Income share held by highest 10%,SI.DST.10TH.10,30.9
+China,CHN,2002,Income share held by highest 10%,SI.DST.10TH.10,31.4
+China,CHN,1999,Income share held by highest 10%,SI.DST.10TH.10,29.4
+China,CHN,1996,Income share held by highest 10%,SI.DST.10TH.10,27.3
+China,CHN,1993,Income share held by highest 10%,SI.DST.10TH.10,26.6
+China,CHN,1990,Income share held by highest 10%,SI.DST.10TH.10,25.8
+China,CHN,2019,Income share held by lowest 10%,SI.DST.FRST.10,2.8
+China,CHN,2018,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+China,CHN,2017,Income share held by lowest 10%,SI.DST.FRST.10,2.6
+China,CHN,2016,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+China,CHN,2015,Income share held by lowest 10%,SI.DST.FRST.10,2.6
+China,CHN,2014,Income share held by lowest 10%,SI.DST.FRST.10,2.5
+China,CHN,2013,Income share held by lowest 10%,SI.DST.FRST.10,2.5
+China,CHN,2012,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+China,CHN,2011,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+China,CHN,2010,Income share held by lowest 10%,SI.DST.FRST.10,2
+China,CHN,2008,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+China,CHN,2005,Income share held by lowest 10%,SI.DST.FRST.10,2.4
+China,CHN,2002,Income share held by lowest 10%,SI.DST.FRST.10,2.3
+China,CHN,1999,Income share held by lowest 10%,SI.DST.FRST.10,2.7
+China,CHN,1996,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+China,CHN,1993,Income share held by lowest 10%,SI.DST.FRST.10,3.3
+China,CHN,1990,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+China,CHN,2019,Income share held by lowest 20%,SI.DST.FRST.20,6.7
+China,CHN,2018,Income share held by lowest 20%,SI.DST.FRST.20,6.5
+China,CHN,2017,Income share held by lowest 20%,SI.DST.FRST.20,6.4
+China,CHN,2016,Income share held by lowest 20%,SI.DST.FRST.20,6.5
+China,CHN,2015,Income share held by lowest 20%,SI.DST.FRST.20,6.4
+China,CHN,2014,Income share held by lowest 20%,SI.DST.FRST.20,6.2
+China,CHN,2013,Income share held by lowest 20%,SI.DST.FRST.20,6.2
+China,CHN,2012,Income share held by lowest 20%,SI.DST.FRST.20,5.3
+China,CHN,2011,Income share held by lowest 20%,SI.DST.FRST.20,5.4
+China,CHN,2010,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+China,CHN,2008,Income share held by lowest 20%,SI.DST.FRST.20,5.2
+China,CHN,2005,Income share held by lowest 20%,SI.DST.FRST.20,5.9
+China,CHN,2002,Income share held by lowest 20%,SI.DST.FRST.20,5.7
+China,CHN,1999,Income share held by lowest 20%,SI.DST.FRST.20,6.5
+China,CHN,1996,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+China,CHN,1993,Income share held by lowest 20%,SI.DST.FRST.20,7.9
+China,CHN,1990,Income share held by lowest 20%,SI.DST.FRST.20,8.3
+China,CHN,2019,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+China,CHN,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.4
+China,CHN,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.7
+China,CHN,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.8
+China,CHN,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.2
+China,CHN,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.1
+China,CHN,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,2.9
+China,CHN,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,8.5
+China,CHN,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,10.2
+China,CHN,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,13.9
+China,CHN,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,18
+China,CHN,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,22.1
+China,CHN,2002,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,36.5
+China,CHN,1999,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,46
+China,CHN,1996,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,48.1
+China,CHN,1993,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,62.7
+China,CHN,1990,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,72
+China,CHN,2019,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+China,CHN,2018,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+China,CHN,2017,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+China,CHN,2016,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+China,CHN,2015,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+China,CHN,2014,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.4
+China,CHN,2013,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.5
+China,CHN,2012,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,2
+China,CHN,2011,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,2.5
+China,CHN,2010,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,3.6
+China,CHN,2008,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,5.1
+China,CHN,2005,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,6.2
+China,CHN,2002,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,12.4
+China,CHN,1999,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,15.9
+China,CHN,1996,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,15.9
+China,CHN,1993,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,24.1
+China,CHN,1990,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,28.3
+China,CHN,2019,Gini index,SI.POV.GINI,38.2
+China,CHN,2018,Gini index,SI.POV.GINI,38.5
+China,CHN,2017,Gini index,SI.POV.GINI,39.1
+China,CHN,2016,Gini index,SI.POV.GINI,38.5
+China,CHN,2015,Gini index,SI.POV.GINI,38.6
+China,CHN,2014,Gini index,SI.POV.GINI,39.2
+China,CHN,2013,Gini index,SI.POV.GINI,39.7
+China,CHN,2012,Gini index,SI.POV.GINI,42.2
+China,CHN,2011,Gini index,SI.POV.GINI,42.4
+China,CHN,2010,Gini index,SI.POV.GINI,43.7
+China,CHN,2008,Gini index,SI.POV.GINI,43
+China,CHN,2005,Gini index,SI.POV.GINI,40.9
+China,CHN,2002,Gini index,SI.POV.GINI,42
+China,CHN,1999,Gini index,SI.POV.GINI,38.7
+China,CHN,1996,Gini index,SI.POV.GINI,35.2
+China,CHN,1993,Gini index,SI.POV.GINI,33.9
+China,CHN,1990,Gini index,SI.POV.GINI,32.2
+China,CHN,2019,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,3
+China,CHN,2018,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,5
+China,CHN,2017,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,6.8
+China,CHN,2016,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,7.8
+China,CHN,2015,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,9.8
+China,CHN,2014,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,12.7
+China,CHN,2013,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,15.8
+China,CHN,2012,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,24.2
+China,CHN,2011,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,28
+China,CHN,2010,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,33.1
+China,CHN,2008,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,39.7
+China,CHN,2005,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,49
+China,CHN,2002,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,62.8
+China,CHN,1999,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,73.3
+China,CHN,1996,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,78.1
+China,CHN,1993,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,87.1
+China,CHN,1990,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,92.7
+China,CHN,2019,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.5
+China,CHN,2018,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.9
+China,CHN,2017,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,1.4
+China,CHN,2016,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,1.6
+China,CHN,2015,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,2.1
+China,CHN,2014,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,3
+China,CHN,2013,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,3.9
+China,CHN,2012,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,7.8
+China,CHN,2011,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,9.3
+China,CHN,2010,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,11.8
+China,CHN,2008,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,14.9
+China,CHN,2005,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,18.6
+China,CHN,2002,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,28.2
+China,CHN,1999,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,34.6
+China,CHN,1996,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,36.2
+China,CHN,1993,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,45.9
+China,CHN,1990,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,51.5
+China,CHN,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,0
+China,CHN,2019,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,0.6
+China,CHN,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,1.7
+China,CHN,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,3.1
+China,CHN,2016,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,4.5
+China,CHN,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,5.7
+China,CHN,2014,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,7.2
+China,CHN,2013,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,8.5
+China,CHN,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.2
+China,CHN,2011,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.7
+China,CHN,2010,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.2
+China,CHN,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,30.2
+China,CHN,2000,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,49.8
+China,CHN,2019,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,24.7
+China,CHN,2018,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,28.1
+China,CHN,2017,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,32
+China,CHN,2016,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,34.2
+China,CHN,2015,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,37.9
+China,CHN,2014,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,42.3
+China,CHN,2013,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,47.3
+China,CHN,2012,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,54.1
+China,CHN,2011,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,58.9
+China,CHN,2010,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,62.5
+China,CHN,2008,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,69.5
+China,CHN,2005,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,78.5
+China,CHN,2002,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,86.9
+China,CHN,1999,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,93.1
+China,CHN,1996,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,95.5
+China,CHN,1993,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,97.9
+China,CHN,1990,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,99
+China,CHN,2019,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,6.4
+China,CHN,2018,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,8
+China,CHN,2017,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,9.7
+China,CHN,2016,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,10.5
+China,CHN,2015,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,12.2
+China,CHN,2014,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,14.5
+China,CHN,2013,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,17.1
+China,CHN,2012,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,22.9
+China,CHN,2011,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,25.9
+China,CHN,2010,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,29.3
+China,CHN,2008,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,34.3
+China,CHN,2005,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,40.8
+China,CHN,2002,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,51
+China,CHN,1999,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,58.5
+China,CHN,1996,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,61.1
+China,CHN,1993,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,68.6
+China,CHN,1990,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,72.8
+China,CHN,2019,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,6.19
+China,CHN,2014,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,4.37
+China,CHN,2019,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,7.2
+China,CHN,2019,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,14.17
+China,CHN,2014,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,10.45
+China,CHN,2019,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,6.28
