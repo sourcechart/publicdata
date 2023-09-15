@@ -1,0 +1,337 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Hungary,HUN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.2
+Hungary,HUN,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.2
+Hungary,HUN,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.9
+Hungary,HUN,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,9.1
+Hungary,HUN,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,10.4
+Hungary,HUN,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,11.6
+Hungary,HUN,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,12.9
+Hungary,HUN,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,14.2
+Hungary,HUN,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,15.4
+Hungary,HUN,2020,Income share held by second 20%,SI.DST.02ND.20,13.4
+Hungary,HUN,2019,Income share held by second 20%,SI.DST.02ND.20,13.4
+Hungary,HUN,2018,Income share held by second 20%,SI.DST.02ND.20,13.5
+Hungary,HUN,2017,Income share held by second 20%,SI.DST.02ND.20,13.2
+Hungary,HUN,2016,Income share held by second 20%,SI.DST.02ND.20,13.2
+Hungary,HUN,2015,Income share held by second 20%,SI.DST.02ND.20,13.3
+Hungary,HUN,2014,Income share held by second 20%,SI.DST.02ND.20,13.2
+Hungary,HUN,2013,Income share held by second 20%,SI.DST.02ND.20,13
+Hungary,HUN,2012,Income share held by second 20%,SI.DST.02ND.20,13.3
+Hungary,HUN,2011,Income share held by second 20%,SI.DST.02ND.20,13.8
+Hungary,HUN,2010,Income share held by second 20%,SI.DST.02ND.20,13.4
+Hungary,HUN,2009,Income share held by second 20%,SI.DST.02ND.20,14.1
+Hungary,HUN,2008,Income share held by second 20%,SI.DST.02ND.20,13.9
+Hungary,HUN,2007,Income share held by second 20%,SI.DST.02ND.20,13.8
+Hungary,HUN,2006,Income share held by second 20%,SI.DST.02ND.20,13.8
+Hungary,HUN,2005,Income share held by second 20%,SI.DST.02ND.20,12.5
+Hungary,HUN,2004,Income share held by second 20%,SI.DST.02ND.20,13.5
+Hungary,HUN,2020,Income share held by third 20%,SI.DST.03RD.20,17.7
+Hungary,HUN,2019,Income share held by third 20%,SI.DST.03RD.20,17.7
+Hungary,HUN,2018,Income share held by third 20%,SI.DST.03RD.20,17.8
+Hungary,HUN,2017,Income share held by third 20%,SI.DST.03RD.20,17.6
+Hungary,HUN,2016,Income share held by third 20%,SI.DST.03RD.20,17.6
+Hungary,HUN,2015,Income share held by third 20%,SI.DST.03RD.20,17.6
+Hungary,HUN,2014,Income share held by third 20%,SI.DST.03RD.20,17.6
+Hungary,HUN,2013,Income share held by third 20%,SI.DST.03RD.20,17.4
+Hungary,HUN,2012,Income share held by third 20%,SI.DST.03RD.20,17.6
+Hungary,HUN,2011,Income share held by third 20%,SI.DST.03RD.20,17.9
+Hungary,HUN,2010,Income share held by third 20%,SI.DST.03RD.20,17.7
+Hungary,HUN,2009,Income share held by third 20%,SI.DST.03RD.20,18.2
+Hungary,HUN,2008,Income share held by third 20%,SI.DST.03RD.20,18
+Hungary,HUN,2007,Income share held by third 20%,SI.DST.03RD.20,17.9
+Hungary,HUN,2006,Income share held by third 20%,SI.DST.03RD.20,17.8
+Hungary,HUN,2005,Income share held by third 20%,SI.DST.03RD.20,16.7
+Hungary,HUN,2004,Income share held by third 20%,SI.DST.03RD.20,17.5
+Hungary,HUN,2020,Income share held by fourth 20%,SI.DST.04TH.20,22.9
+Hungary,HUN,2019,Income share held by fourth 20%,SI.DST.04TH.20,23.1
+Hungary,HUN,2018,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2017,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2016,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2015,Income share held by fourth 20%,SI.DST.04TH.20,22.9
+Hungary,HUN,2014,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2013,Income share held by fourth 20%,SI.DST.04TH.20,22.7
+Hungary,HUN,2012,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2011,Income share held by fourth 20%,SI.DST.04TH.20,22.6
+Hungary,HUN,2010,Income share held by fourth 20%,SI.DST.04TH.20,22.9
+Hungary,HUN,2009,Income share held by fourth 20%,SI.DST.04TH.20,23
+Hungary,HUN,2008,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2007,Income share held by fourth 20%,SI.DST.04TH.20,22.8
+Hungary,HUN,2006,Income share held by fourth 20%,SI.DST.04TH.20,22.6
+Hungary,HUN,2005,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Hungary,HUN,2004,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+Hungary,HUN,2020,Income share held by highest 20%,SI.DST.05TH.20,37.8
+Hungary,HUN,2019,Income share held by highest 20%,SI.DST.05TH.20,37.8
+Hungary,HUN,2018,Income share held by highest 20%,SI.DST.05TH.20,37.8
+Hungary,HUN,2017,Income share held by highest 20%,SI.DST.05TH.20,38.5
+Hungary,HUN,2016,Income share held by highest 20%,SI.DST.05TH.20,38.4
+Hungary,HUN,2015,Income share held by highest 20%,SI.DST.05TH.20,38.4
+Hungary,HUN,2014,Income share held by highest 20%,SI.DST.05TH.20,38.7
+Hungary,HUN,2013,Income share held by highest 20%,SI.DST.05TH.20,39.4
+Hungary,HUN,2012,Income share held by highest 20%,SI.DST.05TH.20,38.6
+Hungary,HUN,2011,Income share held by highest 20%,SI.DST.05TH.20,37.6
+Hungary,HUN,2010,Income share held by highest 20%,SI.DST.05TH.20,37.7
+Hungary,HUN,2009,Income share held by highest 20%,SI.DST.05TH.20,35.9
+Hungary,HUN,2008,Income share held by highest 20%,SI.DST.05TH.20,36.4
+Hungary,HUN,2007,Income share held by highest 20%,SI.DST.05TH.20,36.7
+Hungary,HUN,2006,Income share held by highest 20%,SI.DST.05TH.20,37.1
+Hungary,HUN,2005,Income share held by highest 20%,SI.DST.05TH.20,42.2
+Hungary,HUN,2004,Income share held by highest 20%,SI.DST.05TH.20,38.4
+Hungary,HUN,2020,Income share held by highest 10%,SI.DST.10TH.10,23.3
+Hungary,HUN,2019,Income share held by highest 10%,SI.DST.10TH.10,23.3
+Hungary,HUN,2018,Income share held by highest 10%,SI.DST.10TH.10,23.2
+Hungary,HUN,2017,Income share held by highest 10%,SI.DST.10TH.10,23.9
+Hungary,HUN,2016,Income share held by highest 10%,SI.DST.10TH.10,23.8
+Hungary,HUN,2015,Income share held by highest 10%,SI.DST.10TH.10,23.8
+Hungary,HUN,2014,Income share held by highest 10%,SI.DST.10TH.10,24
+Hungary,HUN,2013,Income share held by highest 10%,SI.DST.10TH.10,24.4
+Hungary,HUN,2012,Income share held by highest 10%,SI.DST.10TH.10,23.9
+Hungary,HUN,2011,Income share held by highest 10%,SI.DST.10TH.10,23.2
+Hungary,HUN,2010,Income share held by highest 10%,SI.DST.10TH.10,23.1
+Hungary,HUN,2009,Income share held by highest 10%,SI.DST.10TH.10,21.5
+Hungary,HUN,2008,Income share held by highest 10%,SI.DST.10TH.10,22.1
+Hungary,HUN,2007,Income share held by highest 10%,SI.DST.10TH.10,22.3
+Hungary,HUN,2006,Income share held by highest 10%,SI.DST.10TH.10,22.8
+Hungary,HUN,2005,Income share held by highest 10%,SI.DST.10TH.10,28.1
+Hungary,HUN,2004,Income share held by highest 10%,SI.DST.10TH.10,24.2
+Hungary,HUN,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10
+Hungary,HUN,2019,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.3
+Hungary,HUN,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.9
+Hungary,HUN,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.5
+Hungary,HUN,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.2
+Hungary,HUN,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.5
+Hungary,HUN,2014,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.7
+Hungary,HUN,2013,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.7
+Hungary,HUN,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.7
+Hungary,HUN,2011,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.7
+Hungary,HUN,2010,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.4
+Hungary,HUN,2009,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.2
+Hungary,HUN,2008,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.9
+Hungary,HUN,2007,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.6
+Hungary,HUN,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.6
+Hungary,HUN,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,12.9
+Hungary,HUN,2004,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.2
+Hungary,HUN,2020,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Hungary,HUN,2019,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Hungary,HUN,2018,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Hungary,HUN,2017,Income share held by lowest 10%,SI.DST.FRST.10,3
+Hungary,HUN,2016,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Hungary,HUN,2015,Income share held by lowest 10%,SI.DST.FRST.10,3
+Hungary,HUN,2014,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Hungary,HUN,2013,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Hungary,HUN,2012,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Hungary,HUN,2011,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Hungary,HUN,2010,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Hungary,HUN,2009,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Hungary,HUN,2008,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Hungary,HUN,2007,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Hungary,HUN,2006,Income share held by lowest 10%,SI.DST.FRST.10,3.4
+Hungary,HUN,2005,Income share held by lowest 10%,SI.DST.FRST.10,2.6
+Hungary,HUN,2004,Income share held by lowest 10%,SI.DST.FRST.10,3.3
+Hungary,HUN,2020,Income share held by lowest 20%,SI.DST.FRST.20,8.1
+Hungary,HUN,2019,Income share held by lowest 20%,SI.DST.FRST.20,8
+Hungary,HUN,2018,Income share held by lowest 20%,SI.DST.FRST.20,8.2
+Hungary,HUN,2017,Income share held by lowest 20%,SI.DST.FRST.20,7.9
+Hungary,HUN,2016,Income share held by lowest 20%,SI.DST.FRST.20,8
+Hungary,HUN,2015,Income share held by lowest 20%,SI.DST.FRST.20,7.8
+Hungary,HUN,2014,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Hungary,HUN,2013,Income share held by lowest 20%,SI.DST.FRST.20,7.5
+Hungary,HUN,2012,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Hungary,HUN,2011,Income share held by lowest 20%,SI.DST.FRST.20,8.1
+Hungary,HUN,2010,Income share held by lowest 20%,SI.DST.FRST.20,8.2
+Hungary,HUN,2009,Income share held by lowest 20%,SI.DST.FRST.20,8.8
+Hungary,HUN,2008,Income share held by lowest 20%,SI.DST.FRST.20,8.8
+Hungary,HUN,2007,Income share held by lowest 20%,SI.DST.FRST.20,8.7
+Hungary,HUN,2006,Income share held by lowest 20%,SI.DST.FRST.20,8.7
+Hungary,HUN,2005,Income share held by lowest 20%,SI.DST.FRST.20,7.1
+Hungary,HUN,2004,Income share held by lowest 20%,SI.DST.FRST.20,8.3
+Hungary,HUN,2020,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.4
+Hungary,HUN,2019,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Hungary,HUN,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Hungary,HUN,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.6
+Hungary,HUN,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1.3
+Hungary,HUN,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.6
+Hungary,HUN,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.7
+Hungary,HUN,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Hungary,HUN,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Hungary,HUN,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2009,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Hungary,HUN,2007,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2006,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.7
+Hungary,HUN,2004,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Hungary,HUN,2020,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.3
+Hungary,HUN,2019,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Hungary,HUN,2018,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Hungary,HUN,2017,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.4
+Hungary,HUN,2016,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.8
+Hungary,HUN,2015,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.3
+Hungary,HUN,2014,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.5
+Hungary,HUN,2013,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2012,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Hungary,HUN,2011,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2010,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2009,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2008,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2007,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Hungary,HUN,2006,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Hungary,HUN,2005,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.4
+Hungary,HUN,2004,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Hungary,HUN,2020,Gini index,SI.POV.GINI,29.7
+Hungary,HUN,2019,Gini index,SI.POV.GINI,30
+Hungary,HUN,2018,Gini index,SI.POV.GINI,29.6
+Hungary,HUN,2017,Gini index,SI.POV.GINI,30.6
+Hungary,HUN,2016,Gini index,SI.POV.GINI,30.3
+Hungary,HUN,2015,Gini index,SI.POV.GINI,30.4
+Hungary,HUN,2014,Gini index,SI.POV.GINI,30.9
+Hungary,HUN,2013,Gini index,SI.POV.GINI,31.5
+Hungary,HUN,2012,Gini index,SI.POV.GINI,30.8
+Hungary,HUN,2011,Gini index,SI.POV.GINI,29.2
+Hungary,HUN,2010,Gini index,SI.POV.GINI,29.4
+Hungary,HUN,2009,Gini index,SI.POV.GINI,27
+Hungary,HUN,2008,Gini index,SI.POV.GINI,27.5
+Hungary,HUN,2007,Gini index,SI.POV.GINI,27.9
+Hungary,HUN,2006,Gini index,SI.POV.GINI,28.3
+Hungary,HUN,2005,Gini index,SI.POV.GINI,34.7
+Hungary,HUN,2004,Gini index,SI.POV.GINI,29.9
+Hungary,HUN,2020,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.8
+Hungary,HUN,2019,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.9
+Hungary,HUN,2018,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.7
+Hungary,HUN,2017,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1.5
+Hungary,HUN,2016,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1.9
+Hungary,HUN,2015,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1.3
+Hungary,HUN,2014,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1.1
+Hungary,HUN,2013,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.9
+Hungary,HUN,2012,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1
+Hungary,HUN,2011,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Hungary,HUN,2010,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Hungary,HUN,2009,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Hungary,HUN,2008,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Hungary,HUN,2007,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.4
+Hungary,HUN,2006,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Hungary,HUN,2005,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,1.5
+Hungary,HUN,2004,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.4
+Hungary,HUN,2020,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.4
+Hungary,HUN,2019,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Hungary,HUN,2018,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Hungary,HUN,2017,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.6
+Hungary,HUN,2016,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,1.1
+Hungary,HUN,2015,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.6
+Hungary,HUN,2014,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.7
+Hungary,HUN,2013,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Hungary,HUN,2012,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Hungary,HUN,2011,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2010,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2009,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2008,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Hungary,HUN,2007,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2006,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2005,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.6
+Hungary,HUN,2004,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Hungary,HUN,2021,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,19.4
+Hungary,HUN,2020,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.8
+Hungary,HUN,2019,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,18.9
+Hungary,HUN,2018,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,19.6
+Hungary,HUN,2017,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,25.6
+Hungary,HUN,2016,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,26.3
+Hungary,HUN,2015,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,28.2
+Hungary,HUN,2014,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,31.8
+Hungary,HUN,2013,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,34.8
+Hungary,HUN,2012,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,33.5
+Hungary,HUN,2011,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,31.5
+Hungary,HUN,2010,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,29.9
+Hungary,HUN,2021,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,23.3
+Hungary,HUN,2020,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,18
+Hungary,HUN,2019,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,21.6
+Hungary,HUN,2018,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,23.1
+Hungary,HUN,2017,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,31.5
+Hungary,HUN,2016,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,33.8
+Hungary,HUN,2015,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,35.5
+Hungary,HUN,2014,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,42.1
+Hungary,HUN,2013,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,43.6
+Hungary,HUN,2012,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,41.8
+Hungary,HUN,2011,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,40.1
+Hungary,HUN,2010,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,39.7
+Hungary,HUN,2021,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,20.1
+Hungary,HUN,2020,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,17.8
+Hungary,HUN,2019,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,19.6
+Hungary,HUN,2018,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,20.3
+Hungary,HUN,2017,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,26.1
+Hungary,HUN,2016,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,26.5
+Hungary,HUN,2015,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,28.4
+Hungary,HUN,2014,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,32.3
+Hungary,HUN,2013,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,35.2
+Hungary,HUN,2012,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,34
+Hungary,HUN,2011,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,32
+Hungary,HUN,2010,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,30.3
+Hungary,HUN,2021,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,18.7
+Hungary,HUN,2020,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.7
+Hungary,HUN,2019,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,18
+Hungary,HUN,2018,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,18.9
+Hungary,HUN,2017,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,24.9
+Hungary,HUN,2016,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,26
+Hungary,HUN,2015,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,28
+Hungary,HUN,2014,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,31.4
+Hungary,HUN,2013,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,34.4
+Hungary,HUN,2012,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,32.9
+Hungary,HUN,2011,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,31.1
+Hungary,HUN,2010,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,29.4
+Hungary,HUN,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.7
+Hungary,HUN,2019,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Hungary,HUN,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Hungary,HUN,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.8
+Hungary,HUN,2016,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.4
+Hungary,HUN,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.5
+Hungary,HUN,2014,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.9
+Hungary,HUN,2013,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15
+Hungary,HUN,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15
+Hungary,HUN,2011,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.3
+Hungary,HUN,2010,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.1
+Hungary,HUN,2009,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Hungary,HUN,2008,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.4
+Hungary,HUN,2007,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.4
+Hungary,HUN,2006,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Hungary,HUN,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15.9
+Hungary,HUN,2004,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,13.5
+Hungary,HUN,2020,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,2.5
+Hungary,HUN,2019,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,2.5
+Hungary,HUN,2018,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,2.8
+Hungary,HUN,2017,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,4
+Hungary,HUN,2016,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,3.3
+Hungary,HUN,2015,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,3.9
+Hungary,HUN,2014,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,5.4
+Hungary,HUN,2013,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,7.3
+Hungary,HUN,2012,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,7.8
+Hungary,HUN,2011,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,5.8
+Hungary,HUN,2010,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,5.4
+Hungary,HUN,2009,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,4
+Hungary,HUN,2008,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,3.3
+Hungary,HUN,2007,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,4
+Hungary,HUN,2006,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,4
+Hungary,HUN,2005,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,7.4
+Hungary,HUN,2004,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,5.7
+Hungary,HUN,2020,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.9
+Hungary,HUN,2019,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.9
+Hungary,HUN,2018,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1
+Hungary,HUN,2017,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.6
+Hungary,HUN,2016,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.8
+Hungary,HUN,2015,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.5
+Hungary,HUN,2014,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.7
+Hungary,HUN,2013,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.8
+Hungary,HUN,2012,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.9
+Hungary,HUN,2011,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.2
+Hungary,HUN,2010,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1
+Hungary,HUN,2009,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.7
+Hungary,HUN,2008,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.6
+Hungary,HUN,2007,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.8
+Hungary,HUN,2006,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.8
+Hungary,HUN,2005,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,2.2
+Hungary,HUN,2004,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,1.2
+Hungary,HUN,2020,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,16.03
+Hungary,HUN,2015,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,11.53
+Hungary,HUN,2020,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,6.81
+Hungary,HUN,2020,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,29.88
+Hungary,HUN,2015,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,21.97
+Hungary,HUN,2020,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,6.34

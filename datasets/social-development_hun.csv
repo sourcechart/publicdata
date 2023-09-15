@@ -1,0 +1,892 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Hungary,HUN,2021,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1.00404000282288
+Hungary,HUN,2014,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1.00312995910645
+Hungary,HUN,1990,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,1
+Hungary,HUN,1980,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.998960018157959
+Hungary,HUN,2020,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.979170024394989
+Hungary,HUN,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.986580014228821
+Hungary,HUN,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992959976196289
+Hungary,HUN,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994189977645874
+Hungary,HUN,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.99753999710083
+Hungary,HUN,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996800005435944
+Hungary,HUN,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993059992790222
+Hungary,HUN,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992240011692047
+Hungary,HUN,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994549989700317
+Hungary,HUN,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995310008525848
+Hungary,HUN,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993529975414276
+Hungary,HUN,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991490006446838
+Hungary,HUN,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.986930012702942
+Hungary,HUN,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.982219994068146
+Hungary,HUN,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.982309997081757
+Hungary,HUN,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.979589998722076
+Hungary,HUN,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.984239995479584
+Hungary,HUN,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.984510004520416
+Hungary,HUN,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.982159972190857
+Hungary,HUN,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981549978256226
+Hungary,HUN,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981090009212494
+Hungary,HUN,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.979749977588654
+Hungary,HUN,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.982739984989166
+Hungary,HUN,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.981109976768494
+Hungary,HUN,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.983579993247986
+Hungary,HUN,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.98565000295639
+Hungary,HUN,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.985310018062592
+Hungary,HUN,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.991460025310516
+Hungary,HUN,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993099987506866
+Hungary,HUN,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994530022144318
+Hungary,HUN,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.999220013618469
+Hungary,HUN,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00057995319366
+Hungary,HUN,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.998279988765717
+Hungary,HUN,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996710002422333
+Hungary,HUN,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00006997585297
+Hungary,HUN,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.999719977378845
+Hungary,HUN,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00078999996185
+Hungary,HUN,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00168001651764
+Hungary,HUN,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00128996372223
+Hungary,HUN,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00104999542236
+Hungary,HUN,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00287997722626
+Hungary,HUN,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00202000141144
+Hungary,HUN,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0053299665451
+Hungary,HUN,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00104999542236
+Hungary,HUN,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00153994560242
+Hungary,HUN,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994430005550385
+Hungary,HUN,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.992139995098114
+Hungary,HUN,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.988380014896393
+Hungary,HUN,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.97936999797821
+Hungary,HUN,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.989939987659454
+Hungary,HUN,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.993380010128021
+Hungary,HUN,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.994589984416962
+Hungary,HUN,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99905002117157
+Hungary,HUN,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.993550002574921
+Hungary,HUN,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00296998023987
+Hungary,HUN,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00186002254486
+Hungary,HUN,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00150001049042
+Hungary,HUN,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.986209988594055
+Hungary,HUN,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.985989987850189
+Hungary,HUN,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988900005817413
+Hungary,HUN,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.990019977092743
+Hungary,HUN,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9860600233078
+Hungary,HUN,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.990750014781952
+Hungary,HUN,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.987890005111694
+Hungary,HUN,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.986620008945465
+Hungary,HUN,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.988340020179749
+Hungary,HUN,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.995679974555969
+Hungary,HUN,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.998769998550415
+Hungary,HUN,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.998799979686737
+Hungary,HUN,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.998870015144348
+Hungary,HUN,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00332999229431
+Hungary,HUN,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00914001464844
+Hungary,HUN,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01517999172211
+Hungary,HUN,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01839005947113
+Hungary,HUN,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01998996734619
+Hungary,HUN,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01837003231049
+Hungary,HUN,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00167000293732
+Hungary,HUN,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00206995010376
+Hungary,HUN,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00337994098663
+Hungary,HUN,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00946998596191
+Hungary,HUN,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0074599981308
+Hungary,HUN,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00522005558014
+Hungary,HUN,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00223994255066
+Hungary,HUN,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.999719977378845
+Hungary,HUN,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997460007667542
+Hungary,HUN,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997479975223541
+Hungary,HUN,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.997349977493286
+Hungary,HUN,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.986039996147156
+Hungary,HUN,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.980579972267151
+Hungary,HUN,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.978890001773834
+Hungary,HUN,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.973119974136353
+Hungary,HUN,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.97036999464035
+Hungary,HUN,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.963429987430573
+Hungary,HUN,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.958119988441467
+Hungary,HUN,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.949000000953674
+Hungary,HUN,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.955889999866486
+Hungary,HUN,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.933520019054413
+Hungary,HUN,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.919669985771179
+Hungary,HUN,2020,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.994910001754761
+Hungary,HUN,2019,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.996649980545044
+Hungary,HUN,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.995500028133392
+Hungary,HUN,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00144994258881
+Hungary,HUN,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.991609990596771
+Hungary,HUN,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00593996047974
+Hungary,HUN,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00591003894806
+Hungary,HUN,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00547003746033
+Hungary,HUN,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.982550024986267
+Hungary,HUN,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.98199999332428
+Hungary,HUN,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.986999988555908
+Hungary,HUN,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.9894899725914
+Hungary,HUN,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.985790014266968
+Hungary,HUN,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.994470000267029
+Hungary,HUN,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.990419983863831
+Hungary,HUN,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.989830017089844
+Hungary,HUN,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.990279972553253
+Hungary,HUN,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00071001052856
+Hungary,HUN,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00669002532959
+Hungary,HUN,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0072900056839
+Hungary,HUN,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00786995887756
+Hungary,HUN,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01531994342804
+Hungary,HUN,1998,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02243995666504
+Hungary,HUN,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03103005886078
+Hungary,HUN,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03456997871399
+Hungary,HUN,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03565001487732
+Hungary,HUN,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.03298997879028
+Hungary,HUN,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00606000423431
+Hungary,HUN,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00601005554199
+Hungary,HUN,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00757002830505
+Hungary,HUN,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01471996307373
+Hungary,HUN,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01126003265381
+Hungary,HUN,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00935995578766
+Hungary,HUN,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00574004650116
+Hungary,HUN,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.999260008335114
+Hungary,HUN,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.995530009269714
+Hungary,HUN,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.994849979877472
+Hungary,HUN,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.99414998292923
+Hungary,HUN,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.97597998380661
+Hungary,HUN,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.967379987239838
+Hungary,HUN,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.96340000629425
+Hungary,HUN,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.954230010509491
+Hungary,HUN,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.947979986667633
+Hungary,HUN,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.940490007400513
+Hungary,HUN,1975,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.933019995689392
+Hungary,HUN,1974,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.924409985542297
+Hungary,HUN,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.937520027160645
+Hungary,HUN,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.906740009784698
+Hungary,HUN,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.89138001203537
+Hungary,HUN,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19021999835968
+Hungary,HUN,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18656003475189
+Hungary,HUN,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18465995788574
+Hungary,HUN,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19609999656677
+Hungary,HUN,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.19858002662659
+Hungary,HUN,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.20489001274109
+Hungary,HUN,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22773003578186
+Hungary,HUN,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22709000110626
+Hungary,HUN,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.23844003677368
+Hungary,HUN,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.24990999698639
+Hungary,HUN,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26622998714447
+Hungary,HUN,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.27172005176544
+Hungary,HUN,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.30262005329132
+Hungary,HUN,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31231999397278
+Hungary,HUN,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.3171900510788
+Hungary,HUN,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.31605005264282
+Hungary,HUN,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.28422999382019
+Hungary,HUN,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.2688399553299
+Hungary,HUN,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.22678005695343
+Hungary,HUN,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.21257996559143
+Hungary,HUN,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18289995193481
+Hungary,HUN,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1939400434494
+Hungary,HUN,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.18701004981995
+Hungary,HUN,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1605099439621
+Hungary,HUN,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15980994701385
+Hungary,HUN,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11642003059387
+Hungary,HUN,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.11066997051239
+Hungary,HUN,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06946003437042
+Hungary,HUN,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05540001392365
+Hungary,HUN,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05803000926971
+Hungary,HUN,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.07673001289368
+Hungary,HUN,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15978002548218
+Hungary,HUN,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.16343998908997
+Hungary,HUN,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17195999622345
+Hungary,HUN,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.17039000988007
+Hungary,HUN,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.15178000926971
+Hungary,HUN,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.1452100276947
+Hungary,HUN,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.10238003730774
+Hungary,HUN,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.08139002323151
+Hungary,HUN,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.0325700044632
+Hungary,HUN,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04578995704651
+Hungary,HUN,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05079996585846
+Hungary,HUN,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06166994571686
+Hungary,HUN,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03685998916626
+Hungary,HUN,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.973580002784729
+Hungary,HUN,1975,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.933030009269714
+Hungary,HUN,1974,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.898079991340637
+Hungary,HUN,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.879890024662018
+Hungary,HUN,1972,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.825860023498535
+Hungary,HUN,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.775740027427673
+Hungary,HUN,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,14.070351758794
+Hungary,HUN,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.0653266331658
+Hungary,HUN,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12.0603015075377
+Hungary,HUN,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12.5628140703518
+Hungary,HUN,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12.5628140703518
+Hungary,HUN,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.0502512562814
+Hungary,HUN,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.1010101010101
+Hungary,HUN,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.1010101010101
+Hungary,HUN,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.0502512562814
+Hungary,HUN,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.80829015544041
+Hungary,HUN,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.80829015544041
+Hungary,HUN,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.80829015544041
+Hungary,HUN,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.06735751295337
+Hungary,HUN,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.139896373057
+Hungary,HUN,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.139896373057
+Hungary,HUN,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.139896373057
+Hungary,HUN,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.3626943005181
+Hungary,HUN,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.09090909090909
+Hungary,HUN,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.09090909090909
+Hungary,HUN,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.84455958549223
+Hungary,HUN,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.06735751295337
+Hungary,HUN,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.29015544041451
+Hungary,HUN,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.29015544041451
+Hungary,HUN,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.29015544041451
+Hungary,HUN,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.29015544041451
+Hungary,HUN,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.3989637305699
+Hungary,HUN,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.209346
+Hungary,HUN,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.3380315
+Hungary,HUN,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.3986794
+Hungary,HUN,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.4550031
+Hungary,HUN,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.3743595
+Hungary,HUN,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.0389855
+Hungary,HUN,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,4.9026472
+Hungary,HUN,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,4.7634686
+Hungary,HUN,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.0818015
+Hungary,HUN,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.6154832
+Hungary,HUN,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.358992
+Hungary,HUN,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.5401083
+Hungary,HUN,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.9740477
+Hungary,HUN,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.5646192
+Hungary,HUN,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.0312265
+Hungary,HUN,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.7822283
+Hungary,HUN,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.2087431
+Hungary,HUN,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.580049
+Hungary,HUN,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.2360636
+Hungary,HUN,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,6.8086664
+Hungary,HUN,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.1050532
+Hungary,HUN,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,7.5031312
+Hungary,HUN,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.311593
+Hungary,HUN,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.917703
+Hungary,HUN,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.006556
+Hungary,HUN,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.585596
+Hungary,HUN,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.707852
+Hungary,HUN,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.048605
+Hungary,HUN,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.431972
+Hungary,HUN,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,14.959832
+Hungary,HUN,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,15.054875
+Hungary,HUN,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.9094461
+Hungary,HUN,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.3838085
+Hungary,HUN,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.1247741
+Hungary,HUN,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.6391346
+Hungary,HUN,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,5.9758794
+Hungary,HUN,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.4442197
+Hungary,HUN,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.4696638
+Hungary,HUN,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.7422678
+Hungary,HUN,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,6.8892075
+Hungary,HUN,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.2215351
+Hungary,HUN,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.1484637
+Hungary,HUN,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.0604644
+Hungary,HUN,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.3785633
+Hungary,HUN,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.3284724
+Hungary,HUN,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.200295
+Hungary,HUN,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.4789296
+Hungary,HUN,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.1564165
+Hungary,HUN,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.2327601
+Hungary,HUN,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.8075061
+Hungary,HUN,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.9444353
+Hungary,HUN,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.8101111
+Hungary,HUN,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.34153
+Hungary,HUN,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.5013738
+Hungary,HUN,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,16.103514
+Hungary,HUN,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,17.9385512
+Hungary,HUN,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,19.0353745
+Hungary,HUN,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,18.9563043
+Hungary,HUN,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,18.9994931
+Hungary,HUN,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,19.0747613
+Hungary,HUN,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,20.9019039
+Hungary,HUN,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,20.7693966
+Hungary,HUN,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.184
+Hungary,HUN,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.3
+Hungary,HUN,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.88
+Hungary,HUN,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.86
+Hungary,HUN,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.21
+Hungary,HUN,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.2
+Hungary,HUN,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.25
+Hungary,HUN,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,27.49
+Hungary,HUN,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.87
+Hungary,HUN,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.62
+Hungary,HUN,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.38
+Hungary,HUN,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.46
+Hungary,HUN,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.97
+Hungary,HUN,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.47
+Hungary,HUN,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.44
+Hungary,HUN,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.82
+Hungary,HUN,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.17
+Hungary,HUN,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.77
+Hungary,HUN,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.63
+Hungary,HUN,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.61
+Hungary,HUN,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.47
+Hungary,HUN,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,29.15
+Hungary,HUN,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,32.54
+Hungary,HUN,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.86
+Hungary,HUN,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,34.17
+Hungary,HUN,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.75
+Hungary,HUN,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,28.95
+Hungary,HUN,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,31.95
+Hungary,HUN,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,35.28
+Hungary,HUN,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.01
+Hungary,HUN,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.69
+Hungary,HUN,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,39.243
+Hungary,HUN,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,37.414
+Hungary,HUN,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,33.422
+Hungary,HUN,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.07
+Hungary,HUN,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,35.29
+Hungary,HUN,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,37.25
+Hungary,HUN,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,37.07
+Hungary,HUN,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,36.48
+Hungary,HUN,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,36.14
+Hungary,HUN,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,34.39
+Hungary,HUN,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,33.01
+Hungary,HUN,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,30.98
+Hungary,HUN,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,27.9
+Hungary,HUN,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,27
+Hungary,HUN,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,27.53
+Hungary,HUN,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,27.75
+Hungary,HUN,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,28.71
+Hungary,HUN,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,29.55
+Hungary,HUN,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,30.21
+Hungary,HUN,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,30.32
+Hungary,HUN,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,30.82
+Hungary,HUN,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,34.5
+Hungary,HUN,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,36.1
+Hungary,HUN,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,38.9
+Hungary,HUN,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.84
+Hungary,HUN,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.59
+Hungary,HUN,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.98
+Hungary,HUN,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,39.93
+Hungary,HUN,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,38.99
+Hungary,HUN,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.57
+Hungary,HUN,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,42.68
+Hungary,HUN,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,44.75
+Hungary,HUN,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.52
+Hungary,HUN,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.06
+Hungary,HUN,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.12
+Hungary,HUN,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.374
+Hungary,HUN,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.786
+Hungary,HUN,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.213
+Hungary,HUN,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.212
+Hungary,HUN,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.284
+Hungary,HUN,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.458
+Hungary,HUN,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.306
+Hungary,HUN,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.035
+Hungary,HUN,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,29.536
+Hungary,HUN,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.399
+Hungary,HUN,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.701
+Hungary,HUN,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,24.298
+Hungary,HUN,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,24.812
+Hungary,HUN,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,24.676
+Hungary,HUN,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.147
+Hungary,HUN,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,25.76
+Hungary,HUN,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,26.758
+Hungary,HUN,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.111
+Hungary,HUN,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,27.3
+Hungary,HUN,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.64
+Hungary,HUN,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.367
+Hungary,HUN,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.133
+Hungary,HUN,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,37.808
+Hungary,HUN,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.838
+Hungary,HUN,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.702
+Hungary,HUN,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.471
+Hungary,HUN,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.087
+Hungary,HUN,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.408
+Hungary,HUN,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.068
+Hungary,HUN,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,40.972
+Hungary,HUN,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.698
+Hungary,HUN,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.246
+Hungary,HUN,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.36
+Hungary,HUN,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.188
+Hungary,HUN,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,65.234
+Hungary,HUN,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,65.19
+Hungary,HUN,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.827
+Hungary,HUN,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.119
+Hungary,HUN,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,63.358
+Hungary,HUN,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,62.091
+Hungary,HUN,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,60.59
+Hungary,HUN,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,58.446
+Hungary,HUN,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.903
+Hungary,HUN,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,56.531
+Hungary,HUN,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,56.309
+Hungary,HUN,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,55.073
+Hungary,HUN,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.846
+Hungary,HUN,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.977
+Hungary,HUN,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,55.376
+Hungary,HUN,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.892
+Hungary,HUN,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,53.535
+Hungary,HUN,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,53.651
+Hungary,HUN,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.346
+Hungary,HUN,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,51.966
+Hungary,HUN,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.347
+Hungary,HUN,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,51.943
+Hungary,HUN,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.625
+Hungary,HUN,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,48.654
+Hungary,HUN,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,49.569
+Hungary,HUN,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,50.343
+Hungary,HUN,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,52.699
+Hungary,HUN,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,54.948
+Hungary,HUN,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.296
+Hungary,HUN,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.326
+Hungary,HUN,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,57.561
+Hungary,HUN,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.067
+Hungary,HUN,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,80.255
+Hungary,HUN,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,79.954
+Hungary,HUN,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.976
+Hungary,HUN,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,78.123
+Hungary,HUN,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,76.821
+Hungary,HUN,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,75.148
+Hungary,HUN,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,73.303
+Hungary,HUN,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,70.88
+Hungary,HUN,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,69.433
+Hungary,HUN,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,68.422
+Hungary,HUN,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.971
+Hungary,HUN,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.903
+Hungary,HUN,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,68.117
+Hungary,HUN,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,68.641
+Hungary,HUN,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,68.692
+Hungary,HUN,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.685
+Hungary,HUN,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,66.905
+Hungary,HUN,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.482
+Hungary,HUN,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,66.757
+Hungary,HUN,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.019
+Hungary,HUN,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.498
+Hungary,HUN,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.156
+Hungary,HUN,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,66.002
+Hungary,HUN,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,65.945
+Hungary,HUN,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,66.305
+Hungary,HUN,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.99
+Hungary,HUN,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,67.662
+Hungary,HUN,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,69.146
+Hungary,HUN,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,71.612
+Hungary,HUN,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,71.59
+Hungary,HUN,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,71.562
+Hungary,HUN,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.148
+Hungary,HUN,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.765
+Hungary,HUN,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,72.577
+Hungary,HUN,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.888
+Hungary,HUN,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,71.092
+Hungary,HUN,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,70.049
+Hungary,HUN,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.569
+Hungary,HUN,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,66.887
+Hungary,HUN,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.598
+Hungary,HUN,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,63.602
+Hungary,HUN,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.403
+Hungary,HUN,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.063
+Hungary,HUN,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.397
+Hungary,HUN,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.382
+Hungary,HUN,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.699
+Hungary,HUN,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.922
+Hungary,HUN,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.176
+Hungary,HUN,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.096
+Hungary,HUN,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.435
+Hungary,HUN,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.411
+Hungary,HUN,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.343
+Hungary,HUN,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.768
+Hungary,HUN,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.395
+Hungary,HUN,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.159
+Hungary,HUN,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.126
+Hungary,HUN,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.768
+Hungary,HUN,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.989
+Hungary,HUN,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.032
+Hungary,HUN,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,61.909
+Hungary,HUN,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.316
+Hungary,HUN,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.32
+Hungary,HUN,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,64.423
+Hungary,HUN,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.735
+Hungary,HUN,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.413
+Hungary,HUN,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.164
+Hungary,HUN,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.368
+Hungary,HUN,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.309
+Hungary,HUN,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.984
+Hungary,HUN,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,47.632
+Hungary,HUN,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.95
+Hungary,HUN,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.047
+Hungary,HUN,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,44.711
+Hungary,HUN,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,44.546
+Hungary,HUN,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.651
+Hungary,HUN,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.556
+Hungary,HUN,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.706
+Hungary,HUN,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.697
+Hungary,HUN,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.92
+Hungary,HUN,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,43.279
+Hungary,HUN,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.989
+Hungary,HUN,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.066
+Hungary,HUN,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.224
+Hungary,HUN,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.229
+Hungary,HUN,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.986
+Hungary,HUN,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.436
+Hungary,HUN,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,41.141
+Hungary,HUN,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.185
+Hungary,HUN,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,38.776
+Hungary,HUN,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,39.664
+Hungary,HUN,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,40.373
+Hungary,HUN,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,42.354
+Hungary,HUN,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,44.239
+Hungary,HUN,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.194
+Hungary,HUN,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.299
+Hungary,HUN,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,46.585
+Hungary,HUN,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,67.425
+Hungary,HUN,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.983
+Hungary,HUN,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.217
+Hungary,HUN,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.35
+Hungary,HUN,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.687
+Hungary,HUN,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,65.08
+Hungary,HUN,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,64.212
+Hungary,HUN,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.99
+Hungary,HUN,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,61.716
+Hungary,HUN,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,60.012
+Hungary,HUN,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,59.074
+Hungary,HUN,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.445
+Hungary,HUN,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.144
+Hungary,HUN,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.214
+Hungary,HUN,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.505
+Hungary,HUN,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,59.044
+Hungary,HUN,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,59.13
+Hungary,HUN,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.318
+Hungary,HUN,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,57.696
+Hungary,HUN,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.185
+Hungary,HUN,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,57.524
+Hungary,HUN,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,57.691
+Hungary,HUN,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.228
+Hungary,HUN,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,57.93
+Hungary,HUN,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,56.983
+Hungary,HUN,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,56.968
+Hungary,HUN,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,57.447
+Hungary,HUN,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.962
+Hungary,HUN,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,58.758
+Hungary,HUN,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,60.09
+Hungary,HUN,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.241
+Hungary,HUN,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.245
+Hungary,HUN,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,62.251
+Hungary,HUN,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.333
+Hungary,HUN,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.243
+Hungary,HUN,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.482
+Hungary,HUN,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.497
+Hungary,HUN,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.99
+Hungary,HUN,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.577
+Hungary,HUN,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.105
+Hungary,HUN,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.038
+Hungary,HUN,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.915
+Hungary,HUN,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.142
+Hungary,HUN,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.606
+Hungary,HUN,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.981
+Hungary,HUN,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.657
+Hungary,HUN,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.736
+Hungary,HUN,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.006
+Hungary,HUN,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.739
+Hungary,HUN,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.91
+Hungary,HUN,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.429
+Hungary,HUN,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.857
+Hungary,HUN,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.385
+Hungary,HUN,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.076
+Hungary,HUN,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.874
+Hungary,HUN,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.786
+Hungary,HUN,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,6.221
+Hungary,HUN,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.095
+Hungary,HUN,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.854
+Hungary,HUN,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.025
+Hungary,HUN,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.691
+Hungary,HUN,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.365
+Hungary,HUN,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,10.382
+Hungary,HUN,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,8.712
+Hungary,HUN,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.624
+Hungary,HUN,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.5
+Hungary,HUN,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.882
+Hungary,HUN,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.062
+Hungary,HUN,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.357
+Hungary,HUN,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.48
+Hungary,HUN,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.816
+Hungary,HUN,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.115
+Hungary,HUN,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.618
+Hungary,HUN,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.575
+Hungary,HUN,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.212
+Hungary,HUN,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,11.336
+Hungary,HUN,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,11.071
+Hungary,HUN,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,11.606
+Hungary,HUN,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.275
+Hungary,HUN,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.666
+Hungary,HUN,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.138
+Hungary,HUN,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.14
+Hungary,HUN,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.989
+Hungary,HUN,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.807
+Hungary,HUN,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.124
+Hungary,HUN,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.045
+Hungary,HUN,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,6.312
+Hungary,HUN,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.185
+Hungary,HUN,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,7.501
+Hungary,HUN,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.596
+Hungary,HUN,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.863
+Hungary,HUN,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.794
+Hungary,HUN,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,11.311
+Hungary,HUN,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,12.053
+Hungary,HUN,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,13.519
+Hungary,HUN,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,10.96
+Hungary,HUN,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.229
+Hungary,HUN,2022,Refugee population by country or territory of asylum,SM.POP.REFG,35370
+Hungary,HUN,2021,Refugee population by country or territory of asylum,SM.POP.REFG,5676
+Hungary,HUN,2020,Refugee population by country or territory of asylum,SM.POP.REFG,5838
+Hungary,HUN,2019,Refugee population by country or territory of asylum,SM.POP.REFG,5750
+Hungary,HUN,2018,Refugee population by country or territory of asylum,SM.POP.REFG,6019
+Hungary,HUN,2017,Refugee population by country or territory of asylum,SM.POP.REFG,5671
+Hungary,HUN,2016,Refugee population by country or territory of asylum,SM.POP.REFG,4736
+Hungary,HUN,2015,Refugee population by country or territory of asylum,SM.POP.REFG,4383
+Hungary,HUN,2014,Refugee population by country or territory of asylum,SM.POP.REFG,2854
+Hungary,HUN,2013,Refugee population by country or territory of asylum,SM.POP.REFG,2422
+Hungary,HUN,2012,Refugee population by country or territory of asylum,SM.POP.REFG,4034
+Hungary,HUN,2011,Refugee population by country or territory of asylum,SM.POP.REFG,5085
+Hungary,HUN,2010,Refugee population by country or territory of asylum,SM.POP.REFG,5400
+Hungary,HUN,2009,Refugee population by country or territory of asylum,SM.POP.REFG,6041
+Hungary,HUN,2008,Refugee population by country or territory of asylum,SM.POP.REFG,7740
+Hungary,HUN,2007,Refugee population by country or territory of asylum,SM.POP.REFG,8124
+Hungary,HUN,2006,Refugee population by country or territory of asylum,SM.POP.REFG,8068
+Hungary,HUN,2005,Refugee population by country or territory of asylum,SM.POP.REFG,8040
+Hungary,HUN,2004,Refugee population by country or territory of asylum,SM.POP.REFG,7702
+Hungary,HUN,2003,Refugee population by country or territory of asylum,SM.POP.REFG,7013
+Hungary,HUN,2002,Refugee population by country or territory of asylum,SM.POP.REFG,6075
+Hungary,HUN,2001,Refugee population by country or territory of asylum,SM.POP.REFG,4700
+Hungary,HUN,2000,Refugee population by country or territory of asylum,SM.POP.REFG,5053
+Hungary,HUN,1999,Refugee population by country or territory of asylum,SM.POP.REFG,4980
+Hungary,HUN,1998,Refugee population by country or territory of asylum,SM.POP.REFG,3504
+Hungary,HUN,1997,Refugee population by country or territory of asylum,SM.POP.REFG,5890
+Hungary,HUN,1996,Refugee population by country or territory of asylum,SM.POP.REFG,7537
+Hungary,HUN,1995,Refugee population by country or territory of asylum,SM.POP.REFG,11394
+Hungary,HUN,1994,Refugee population by country or territory of asylum,SM.POP.REFG,2904
+Hungary,HUN,1993,Refugee population by country or territory of asylum,SM.POP.REFG,3019
+Hungary,HUN,1992,Refugee population by country or territory of asylum,SM.POP.REFG,32412
+Hungary,HUN,1991,Refugee population by country or territory of asylum,SM.POP.REFG,73838
+Hungary,HUN,1990,Refugee population by country or territory of asylum,SM.POP.REFG,45123
+Hungary,HUN,1989,Refugee population by country or territory of asylum,SM.POP.REFG,27000
+Hungary,HUN,2022,Refugee population by country or territory of origin,SM.POP.REFG.OR,1953
+Hungary,HUN,2021,Refugee population by country or territory of origin,SM.POP.REFG.OR,4653
+Hungary,HUN,2020,Refugee population by country or territory of origin,SM.POP.REFG.OR,4617
+Hungary,HUN,2019,Refugee population by country or territory of origin,SM.POP.REFG.OR,4007
+Hungary,HUN,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,3927
+Hungary,HUN,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,3336
+Hungary,HUN,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,2909
+Hungary,HUN,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,1447
+Hungary,HUN,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,1264
+Hungary,HUN,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,1218
+Hungary,HUN,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,1085
+Hungary,HUN,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,1234
+Hungary,HUN,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,1435
+Hungary,HUN,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,1535
+Hungary,HUN,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,1612
+Hungary,HUN,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,3384
+Hungary,HUN,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,3117
+Hungary,HUN,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,3516
+Hungary,HUN,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,2747
+Hungary,HUN,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,3394
+Hungary,HUN,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,3515
+Hungary,HUN,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,949
+Hungary,HUN,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,512
+Hungary,HUN,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,797
+Hungary,HUN,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,1243
+Hungary,HUN,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,2670
+Hungary,HUN,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,3082
+Hungary,HUN,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,2349
+Hungary,HUN,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,4468
+Hungary,HUN,1993,Refugee population by country or territory of origin,SM.POP.REFG.OR,5014
+Hungary,HUN,1992,Refugee population by country or territory of origin,SM.POP.REFG.OR,3994
+Hungary,HUN,1991,Refugee population by country or territory of origin,SM.POP.REFG.OR,4734
+Hungary,HUN,1990,Refugee population by country or territory of origin,SM.POP.REFG.OR,5767
+Hungary,HUN,1989,Refugee population by country or territory of origin,SM.POP.REFG.OR,4359
+Hungary,HUN,1988,Refugee population by country or territory of origin,SM.POP.REFG.OR,3887
+Hungary,HUN,1987,Refugee population by country or territory of origin,SM.POP.REFG.OR,329
+Hungary,HUN,1986,Refugee population by country or territory of origin,SM.POP.REFG.OR,381
+Hungary,HUN,1985,Refugee population by country or territory of origin,SM.POP.REFG.OR,435
+Hungary,HUN,1984,Refugee population by country or territory of origin,SM.POP.REFG.OR,430
+Hungary,HUN,1983,Refugee population by country or territory of origin,SM.POP.REFG.OR,607
+Hungary,HUN,1982,Refugee population by country or territory of origin,SM.POP.REFG.OR,728
+Hungary,HUN,1981,Refugee population by country or territory of origin,SM.POP.REFG.OR,744
+Hungary,HUN,1980,Refugee population by country or territory of origin,SM.POP.REFG.OR,763
+Hungary,HUN,1978,Refugee population by country or territory of origin,SM.POP.REFG.OR,120
+Hungary,HUN,1976,Refugee population by country or territory of origin,SM.POP.REFG.OR,50
+Hungary,HUN,1975,Refugee population by country or territory of origin,SM.POP.REFG.OR,140
+Hungary,HUN,1974,Refugee population by country or territory of origin,SM.POP.REFG.OR,150
+Hungary,HUN,1973,Refugee population by country or territory of origin,SM.POP.REFG.OR,170
+Hungary,HUN,1972,Refugee population by country or territory of origin,SM.POP.REFG.OR,210
+Hungary,HUN,1971,Refugee population by country or territory of origin,SM.POP.REFG.OR,220
+Hungary,HUN,1970,Refugee population by country or territory of origin,SM.POP.REFG.OR,3490
+Hungary,HUN,1969,Refugee population by country or territory of origin,SM.POP.REFG.OR,3360
+Hungary,HUN,1968,Refugee population by country or territory of origin,SM.POP.REFG.OR,3270
+Hungary,HUN,1967,Refugee population by country or territory of origin,SM.POP.REFG.OR,3270
+Hungary,HUN,1966,Refugee population by country or territory of origin,SM.POP.REFG.OR,3270
+Hungary,HUN,1965,Refugee population by country or territory of origin,SM.POP.REFG.OR,3270
+Hungary,HUN,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.148
+Hungary,HUN,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.286
+Hungary,HUN,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.994
+Hungary,HUN,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.762
+Hungary,HUN,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.913
+Hungary,HUN,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.509
+Hungary,HUN,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.966
+Hungary,HUN,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,24.276
+Hungary,HUN,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.217
+Hungary,HUN,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.211
+Hungary,HUN,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,18.444
+Hungary,HUN,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,18.6
+Hungary,HUN,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.017
+Hungary,HUN,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.376
+Hungary,HUN,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.76
+Hungary,HUN,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.967
+Hungary,HUN,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.392
+Hungary,HUN,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.365
+Hungary,HUN,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.114
+Hungary,HUN,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.809
+Hungary,HUN,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.442
+Hungary,HUN,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,24.049
+Hungary,HUN,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,24.439
+Hungary,HUN,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.884
+Hungary,HUN,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.644
+Hungary,HUN,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,30.799
+Hungary,HUN,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,33.253
+Hungary,HUN,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,35.096
+Hungary,HUN,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.68
+Hungary,HUN,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.814
+Hungary,HUN,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,36.045
+Hungary,HUN,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,38.126
+Hungary,HUN,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,41.003
+Hungary,HUN,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,44.615
+Hungary,HUN,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.836
+Hungary,HUN,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.768
+Hungary,HUN,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.517
+Hungary,HUN,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.974
+Hungary,HUN,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,53.014
+Hungary,HUN,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,58.323
+Hungary,HUN,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,63.217
+Hungary,HUN,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,69.153
+Hungary,HUN,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,74.887
+Hungary,HUN,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,76.387
+Hungary,HUN,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,77.273
+Hungary,HUN,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,77.995
+Hungary,HUN,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,77.494
+Hungary,HUN,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,73.453
+Hungary,HUN,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,61.712
+Hungary,HUN,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,54.386
+Hungary,HUN,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,49.414
+Hungary,HUN,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.812
+Hungary,HUN,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,51.721
+Hungary,HUN,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,51.832
+Hungary,HUN,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.226
+Hungary,HUN,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,44.596
+Hungary,HUN,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,40.588
+Hungary,HUN,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,41.076
+Hungary,HUN,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,44.002
+Hungary,HUN,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.486
+Hungary,HUN,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.697
+Hungary,HUN,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,52.398
+Hungary,HUN,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78
+Hungary,HUN,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79
+Hungary,HUN,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.7
+Hungary,HUN,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.6
+Hungary,HUN,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.3
+Hungary,HUN,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.7
+Hungary,HUN,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79
+Hungary,HUN,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.4
+Hungary,HUN,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.1
+Hungary,HUN,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.7
+Hungary,HUN,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.7
+Hungary,HUN,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.1
+Hungary,HUN,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.9
+Hungary,HUN,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.8
+Hungary,HUN,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.3
+Hungary,HUN,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.4
+Hungary,HUN,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.9
+Hungary,HUN,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.9
+Hungary,HUN,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.5
+Hungary,HUN,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.6
+Hungary,HUN,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.5
+Hungary,HUN,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.6
+Hungary,HUN,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.21
+Hungary,HUN,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.186
+Hungary,HUN,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.22
+Hungary,HUN,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.79
+Hungary,HUN,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.55
+Hungary,HUN,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.31
+Hungary,HUN,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.88
+Hungary,HUN,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.86
+Hungary,HUN,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.91
+Hungary,HUN,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.7
+Hungary,HUN,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.8
+Hungary,HUN,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.08
+Hungary,HUN,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.8
+Hungary,HUN,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.23
+Hungary,HUN,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.08
+Hungary,HUN,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.19
+Hungary,HUN,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.02
+Hungary,HUN,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.23
+Hungary,HUN,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.95
+Hungary,HUN,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.77
+Hungary,HUN,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.17
+Hungary,HUN,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.8
+Hungary,HUN,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.08
+Hungary,HUN,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.59
+Hungary,HUN,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.44
+Hungary,HUN,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.27
+Hungary,HUN,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.54
+Hungary,HUN,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.62
+Hungary,HUN,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.1
+Hungary,HUN,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.12
+Hungary,HUN,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.06
+Hungary,HUN,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.95
+Hungary,HUN,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.05
+Hungary,HUN,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.24
+Hungary,HUN,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.54
+Hungary,HUN,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.86
+Hungary,HUN,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.22
+Hungary,HUN,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.14
+Hungary,HUN,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.2
+Hungary,HUN,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.18
+Hungary,HUN,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.1
+Hungary,HUN,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.3
+Hungary,HUN,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.1
+Hungary,HUN,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.7
+Hungary,HUN,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.5
+Hungary,HUN,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.6
+Hungary,HUN,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.3
+Hungary,HUN,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.3
+Hungary,HUN,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.2
+Hungary,HUN,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.6
+Hungary,HUN,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.2
+Hungary,HUN,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.5
+Hungary,HUN,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.1
+Hungary,HUN,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.8
+Hungary,HUN,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.2
+Hungary,HUN,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69
+Hungary,HUN,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.6
+Hungary,HUN,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.6
+Hungary,HUN,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.3
+Hungary,HUN,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.3
+Hungary,HUN,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.2
+Hungary,HUN,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.1
+Hungary,HUN,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.36
+Hungary,HUN,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.15
+Hungary,HUN,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.4
+Hungary,HUN,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.08
+Hungary,HUN,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.26
+Hungary,HUN,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.86
+Hungary,HUN,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.55
+Hungary,HUN,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.6
+Hungary,HUN,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.06
+Hungary,HUN,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.14
+Hungary,HUN,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.33
+Hungary,HUN,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.16
+Hungary,HUN,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.7
+Hungary,HUN,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.31
+Hungary,HUN,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.06
+Hungary,HUN,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.06
+Hungary,HUN,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.12
+Hungary,HUN,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.67
+Hungary,HUN,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.51
+Hungary,HUN,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.53
+Hungary,HUN,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.23
+Hungary,HUN,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.15
+Hungary,HUN,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.77
+Hungary,HUN,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.7
+Hungary,HUN,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.29
+Hungary,HUN,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.37
+Hungary,HUN,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.64
+Hungary,HUN,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.85
+Hungary,HUN,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.15
+Hungary,HUN,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.35
+Hungary,HUN,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.7
+Hungary,HUN,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.64
+Hungary,HUN,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.89
+Hungary,HUN,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.52
+Hungary,HUN,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.72
+Hungary,HUN,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.02
+Hungary,HUN,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.64
+Hungary,HUN,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.7
+Hungary,HUN,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.78
+Hungary,HUN,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.93
