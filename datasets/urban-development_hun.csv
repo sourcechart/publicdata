@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Hungary,HUN,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
 Hungary,HUN,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
 Hungary,HUN,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
