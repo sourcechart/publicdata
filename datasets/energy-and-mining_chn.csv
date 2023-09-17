@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 China,CHN,2020,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,6.37
 China,CHN,2019,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,6.31
 China,CHN,2018,Energy intensity level of primary energy (MJ/$2017 PPP GDP),EG.EGY.PRIM.PP.KD,6.39
