@@ -1,5 +1,4 @@
 indicator_id,country_id,year,value,magnitude,qualifier
-#indicator+code,#country+code,#date+year,#indicator+value+num,,
 200101,HUN,1970,10366.10500,,
 200101,HUN,1971,10398.16900,,
 200101,HUN,1972,10426.08600,,
