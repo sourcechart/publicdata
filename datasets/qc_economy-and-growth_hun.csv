@@ -1,5 +1,4 @@
 Country ISO3,Year,Indicator Code,Value
-#country+code,#date+year,#indicator+code,#indicator+value+num
 HUN,2022,BM.GSR.CMCP.ZS,56.0007163253475
 HUN,2021,BM.GSR.CMCP.ZS,63.1056717056147
 HUN,2020,BM.GSR.CMCP.ZS,65.8936189810972
