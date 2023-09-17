@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Hungary,HUN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.2
 Hungary,HUN,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.2
 Hungary,HUN,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,7.9
