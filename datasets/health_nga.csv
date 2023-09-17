@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Nigeria,NGA,2013,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49),SG.VAW.1549.ZS,11
 Nigeria,NGA,2018,Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS,19.6
 Nigeria,NGA,2013,Women who believe a husband is justified in beating his wife when she argues with him (%),SG.VAW.ARGU.ZS,21.3
