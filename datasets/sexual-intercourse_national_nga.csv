@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,255671,First sexual intercourse by exact age 15 [Women],28.5,1,NG,Nigeria,1990,NG1990DHS,SX_SBAG_W_B15,51663010,I,12001,12001,Total 25-49,Total 25-49,0,,1,1,SXSBAGWB15,,1990,DHS,5493,5421,,,
 NGA,255673,First sexual intercourse by exact age 18 [Women],56.9,1,NG,Nigeria,1990,NG1990DHS,SX_SBAG_W_B18,51663020,I,12001,12001,Total 25-49,Total 25-49,0,,1,1,SXSBAGWB18,,1990,DHS,5493,5421,,,
 NGA,255672,First sexual intercourse by exact age 20 [Women],70.5,1,NG,Nigeria,1990,NG1990DHS,SX_SBAG_W_B20,51663030,I,12001,12001,Total 25-49,Total 25-49,0,,1,1,SXSBAGWB20,,1990,DHS,5493,5421,,,
