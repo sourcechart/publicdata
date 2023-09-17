@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,486934,Women first married by exact age 15,28.4,1,NG,Nigeria,1990,NG1990DHS,MA_MBAG_W_B15,41603010,I,12001,12001,Total 25-49,Total 25-49,0,,1,1,MAMBAGWB15,,1990,DHS,5493,5421,,,
 NGA,486935,Women first married by exact age 18,57.7,1,NG,Nigeria,1990,NG1990DHS,MA_MBAG_W_B18,41603020,I,12001,12001,Total 25-49,Total 25-49,0,,1,1,MAMBAGWB18,,1990,DHS,5493,5421,,,
 NGA,342398,Women with secondary or higher education,18.9,1,NG,Nigeria,1990,NG1990DHS,ED_EDUC_W_SEH,231203100,I,10000,10000,Total 15-49,Total 15-49,0,,1,1,EDEDUCWSEH,,1990,DHS,8781,8781,,,
