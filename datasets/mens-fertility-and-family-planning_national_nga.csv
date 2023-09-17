@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,345993,Ideal number of children [Men]: 0,0.8,1,NG,Nigeria,2003,NG2003DHS,PR_IDLC_M_ID0,22234180,I,1000,0,Total,Total,0,,1,1,PRIDLCMID0,,2003,DHS,2093,2086,,,
 NGA,345994,Ideal number of children [Men]: 1,0.1,1,NG,Nigeria,2003,NG2003DHS,PR_IDLC_M_ID1,22234190,I,1000,0,Total,Total,0,,1,1,PRIDLCMID1,,2003,DHS,2093,2086,,,
 NGA,346000,Ideal number of children [Men]: 2,1.2,1,NG,Nigeria,2003,NG2003DHS,PR_IDLC_M_ID2,22234200,I,1000,0,Total,Total,0,,1,1,PRIDLCMID2,,2003,DHS,2093,2086,,,
