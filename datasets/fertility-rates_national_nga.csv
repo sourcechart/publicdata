@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,509840,Age specific fertility rate: 15-19,146,0,NG,Nigeria,1990,NG1990DHS,FE_FRTR_W_A15,11763010,I,1000,0,Total,Total,0,,1,1,FEFRTRWA15,,1990,DHS,,,,,
 NGA,509845,Age specific fertility rate: 20-24,258,0,NG,Nigeria,1990,NG1990DHS,FE_FRTR_W_A20,11763020,I,1000,0,Total,Total,0,,1,1,FEFRTRWA20,,1990,DHS,,,,,
 NGA,509846,Age specific fertility rate: 25-29,263,0,NG,Nigeria,1990,NG1990DHS,FE_FRTR_W_A25,11763030,I,1000,0,Total,Total,0,,1,1,FEFRTRWA25,,1990,DHS,,,,,
