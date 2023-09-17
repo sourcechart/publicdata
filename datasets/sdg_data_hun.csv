@@ -1,5 +1,4 @@
 indicator_id,country_id,year,value,magnitude,qualifier
-#indicator+code,#country+code,#date+year,#indicator+value+num,,
 ADMI.ENDOFLOWERSEC.MAT,HUN,2014,1,,
 ADMI.ENDOFLOWERSEC.MAT,HUN,2015,1,,
 ADMI.ENDOFLOWERSEC.MAT,HUN,2016,1,,
