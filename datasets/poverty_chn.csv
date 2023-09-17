@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 China,CHN,2019,Income share held by second 20%,SI.DST.02ND.20,10.7
 China,CHN,2018,Income share held by second 20%,SI.DST.02ND.20,10.7
 China,CHN,2017,Income share held by second 20%,SI.DST.02ND.20,10.5
