@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Hungary,HUN,2022,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,29.6661611268941
 Hungary,HUN,2021,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,26.3075191763456
 Hungary,HUN,2020,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,25.9537234369017
