@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 China,CHN,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,32989.8003106
 China,CHN,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,27013.70395289
 China,CHN,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,21583.90938779
