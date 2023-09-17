@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,362498,Sex before the age of 15 [Women],25.7,1,NG,Nigeria,1990,NG1990DHS,HA_AFSY_W_A15,135763010,I,1000,0,Total,Total,0,,1,1,HAAFSYWA15,,1990,DHS,3288,3360,,,
 NGA,367394,Number of young women,3288,0,NG,Nigeria,1990,NG1990DHS,HA_AFSY_W_NM1,135763020,D,1000,0,Total,Total,0,,1,1,HAAFSYWNM1,,1990,DHS,,3360,,,
 NGA,502326,Number of young women (unweighted),3360,0,NG,Nigeria,1990,NG1990DHS,HA_AFSY_W_UN1,135763030,U,1000,0,Total,Total,0,,1,1,HAAFSYWUN1,,1990,DHS,59,,,,
