@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Israel,ISR,2018,Income share held by second 20%,SI.DST.02ND.20,10.9
 Israel,ISR,2017,Income share held by second 20%,SI.DST.02ND.20,11
 Israel,ISR,2016,Income share held by second 20%,SI.DST.02ND.20,10.6
