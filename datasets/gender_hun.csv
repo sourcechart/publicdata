@@ -1,5 +1,4 @@
 Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
-#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
 Hungary,HUN,2019,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,22.1
 Hungary,HUN,2013,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,20.7
 Hungary,HUN,2009,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS,13.8
