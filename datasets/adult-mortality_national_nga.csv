@@ -1,5 +1,4 @@
 ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
-#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
 NGA,19733,Deaths of adult women,1699,0,NG,Nigeria,2008,NG2008DHS,MM_AMRT_W_DTH,76933010,N,10000,10000,Total 15-49,Total 15-49,0,,1,1,MMAMRTWDTH,,2008,DHS,,,,,
 NGA,647898,Years of exposure to the risk of mortality for women,377463,0,NG,Nigeria,2008,NG2008DHS,MM_AMRT_W_EXP,76933020,D,10000,10000,Total 15-49,Total 15-49,0,,1,1,MMAMRTWEXP,,2008,DHS,,373219,,,
 NGA,19741,Years of exposure to the risk of mortality for women (unweighted),373219,0,NG,Nigeria,2008,NG2008DHS,MM_AMRT_W_EXU,76933030,U,10000,10000,Total 15-49,Total 15-49,0,,1,1,MMAMRTWEXU,,2008,DHS,377463,,,,
